@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">ExamenRecuperacionMarius</string>
+    <string name="todo">TODO</string>
+    <string name="alquiler_habitaciones_hotel">ALQUILER HABITACIONES HOTEL</string>
+    <string name="n_ni_os">Nº niños:</string>
+    <string name="n_adultos">Nº Adultos:</string>
+    <string name="siguiente">Siguiente</string>
+    <string name="total">Total:</string>
+    <string name="precio_adultos">Precio Adultos:</string>
+    <string name="descuento_vip">Descuento VIP:</string>
+    <string name="precio_ni_ios">Precio niñios:</string>
+    <string name="n_dias">Nº dias</string>
+    <string name="socios_vip">Socios VIP?</string>
+    <string name="calcular">Calcular</string>
+    <string name="x">-------</string>
+    <string name="si">SI</string>
+    <string name="no">No</string>
+</resources>
